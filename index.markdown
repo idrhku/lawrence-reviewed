@@ -4,4 +4,3 @@
 title: Lawrence Reviewed
 layout: default
 ---
-this is content for my webpage
