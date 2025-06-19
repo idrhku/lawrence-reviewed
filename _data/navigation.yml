@@ -2,6 +2,17 @@
 main:
   - title: "About"
     url: /about
+  - title: "Curriculum"
+    url: /curriculum
+  - title: "Community"
+    url: /community
+  - title: "Pop-Ups" 
+    url: /pop-ups
+  - title: "Reviews"
+    url: /reviews
+  - title: "Submissions"
+    url: /submissions
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
