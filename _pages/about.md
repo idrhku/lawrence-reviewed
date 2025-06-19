@@ -1,7 +1,7 @@
 --
 layout: single
 title: About
-permalink: about
+permalink: /about
 header:
   image: /assets/cover-images/nollywood-banner.jpg
 --
