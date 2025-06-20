@@ -15,7 +15,7 @@ header:
 Coming soon: information on bringing a Lawrence Reviewed to your classroom!
 
 
-##Using the Common Book in Your Class 
+<h1>Using the Common Book in Your Class </h1>
 
 One way that KU Reads engages students with the Common Book is through coursework. Faculty and instructors are encouraged to integrate the Common Book into their courses by exploring the themes throughout the book and making connections to their discipline. On the KU Reads website (commonbook.ku.edu), instructors will find teaching resources that support integration of the Common Book into the classroom. 
 
