@@ -16,7 +16,7 @@ header:
 
 <h2>Using the Common Book in Your Class </h2>
 
-One way that KU Reads engages students with the Common Book is through coursework. Faculty and instructors are encouraged to integrate the Common Book into their courses by exploring the themes throughout the book and making connections to their discipline. On the KU Reads website (commonbook.ku.edu), instructors will find teaching resources that support integration of the Common Book into the classroom. 
+One way that KU Reads engages students with the Common Book is through coursework. Faculty and instructors are encouraged to integrate the Common Book into their courses by exploring the themes throughout the book and making connections to their discipline. On the <a href="commonbook.ku.edu">KU Reads website</a>, instructors will find teaching resources that support integration of the Common Book into the classroom. 
 
 <h2>Sample Discussion Questions</h2>
 
