@@ -19,7 +19,7 @@ header:
 One way that KU Reads engages students with the Common Book is through coursework. Faculty and instructors are encouraged to integrate the Common Book into their courses by exploring the themes throughout the book and making connections to their discipline. On the KU Reads website (commonbook.ku.edu), instructors will find teaching resources that support integration of the Common Book into the classroom. 
 
 <h2>Sample Discussion Questions</h2>
-<br>
+
 <li>Green describes Earth as a “human-centered planet” in The Anthropocene Reviewed. Do you agree? Do you disagree? Why? </li>
 <br>
 <li>The Anthropocene Reviewed features three hidden reviews. Why do you think Green chose to include (and hide) the reviews? How do the hidden reviews contribute to the story Green is trying to tell? </li> 
