@@ -20,9 +20,9 @@ One way that KU Reads engages students with the Common Book is through coursewor
 
 <h2>Sample Discussion Questions</h2>
 
-<li>Green describes Earth as a “human-centered planet” in The Anthropocene Reviewed. Do you agree? Do you disagree? Why? </li>
+<li>Green describes Earth as a “human-centered planet” in <em>The Anthropocene Reviewed</em>. Do you agree? Do you disagree? Why? </li>
 <br>
-<li>The Anthropocene Reviewed features three hidden reviews. Why do you think Green chose to include (and hide) the reviews? How do the hidden reviews contribute to the story Green is trying to tell? </li> 
+<li><em>The Anthropocene Reviewed</em> features three hidden reviews. Why do you think Green chose to include (and hide) the reviews? How do the hidden reviews contribute to the story Green is trying to tell? </li> 
 <br>
 <li>In “Harvey” and “Hiroyuki Doi’s Circle Drawings” Green explores movies and art as a way to cope with mental health and difficult periods in life. Do you have a strong connection to a song, movie, show, or art that helped you through a difficult time? Why do you think you think it helped you cope, manage, or feel better? </li>
 <br>
