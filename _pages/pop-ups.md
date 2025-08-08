@@ -12,7 +12,7 @@ header:
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Ian Ballinger"
 ---
-##Upcoming Events:
+##Upcoming Events:##
 
 Rate the Jayhawk @ Kansas Student Union: September 10th, 10 AM-12 PM 
 
