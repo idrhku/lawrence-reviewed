@@ -37,9 +37,7 @@ If you are interested in submitting works as a group, please contact us so we ca
 <Policies>  
 
 <p>If at any time you wish to have your review removed from the website, please email us. This is a public website, and what you publish will be accessible to anyone.</p> 
-<br>
 
 <p>Submissions will be reviewed the last week of each month. Submissions that do not follow content guidelines or file formats will be automatically discarded.</p>
-<br>
 
 <p>All submissions and queries can be sent to lawrencereviewed@gmail.com.</p>
