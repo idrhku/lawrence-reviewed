@@ -20,7 +20,7 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <br>
 <li>Rate KU Libraries @ Anschutz: September 17th, 10 AM-12 PM</li>
 <br>
-<li>Rate Kansas's Dinosaur @ Natural History Museum: October 15th 10AM-12 PM</li>   
+<li>Rate Your Hometown Dinosaur @ Natural History Museum: October 15th 10AM-12 PM</li>   
 <br>
 <li>Rate the “Big Tooter” @ Watson Library: October 22nd, 2-4 PM</li>
 <br>
