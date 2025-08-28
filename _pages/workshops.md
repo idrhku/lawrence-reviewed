@@ -14,9 +14,15 @@ header:
 ---
 Want us to visit your class or a meeting of your organization? We also offer workshops!
 
-Lawrence Reviewed has developed a 90-minute workshop that includes a facilitated discussion of an essay from Green's book as well as a tutorial on how to create a review and submit it to the project.
+Lawrence Reviewed Workshop Overview (90 Minutes) 
+1. Overview of Common Book
+Introduction to KU Reads
+Introduction to the newest Common Book selection
 
-For the book discussion, portion you can choose from the following essays:
+2. Facilitated Discussion of Common Book
+Essay from Green's book
+
+For the book discussion, you can choose from the following essays:
 <br>
 <li>“Three farmers on the way to the dance” - Themes: History, Photography<li>
 <br>
@@ -32,6 +38,9 @@ For the book discussion, portion you can choose from the following essays:
 <br>
 <li>“Indianapolis” - Themes: Connection & Community<li>
 <br>
+
+3. Lawrence Reviewed Tutorial 
+Introduction to a tutorial on how to create a review and submit it to the project.
 The tutorial portion of the workshop will provide an overview of the submission guidelines, information on contributing to the project, examples of reviews, and time for questions and drafting a review.
 
 For more information on scheduling a workshop with your group, email us at lawrencereviewed@gmail.com.
