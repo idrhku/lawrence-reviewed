@@ -18,19 +18,18 @@ Want us to visit your class or a meeting of your organization? We also offer wor
 
 <h3>What is KU Reads: A Common Book Experience?</h3>
 <li>Introduction to KU Reads</li>
-<li>Introduction to the newest Common Book selection</li>
+<li>Introduction to <em>The Anthropocene Reviewed</em> by John Green</li>
 
 <h3>Facilitated Discussion of Common Book</h3>
-Choose one of the following essays as the focus of a facilitated discussion:
+Choose one of the following essays as the focus of a facilitated discussion (titles and themes listed below):
 <br>
-<li>“Three farmers on the way to the dance” - Themes: History, Photography</li>
+<li>“Three farmers on the way to the dance” (History, Photography)</li>
 <li>“Penguins of Madagascar” - Themes: Media & Myths</li>
 <li>“Monopoly” - Themes: History & Capitalism</li>
 <li>“Diet Dr. Pepper”  - Themes: Innovation, Marketing, Vice</li>
 <li> Hiroyuki Doi’s Circle Drawings - Themes: Mental Health </li>
 <li>“Kentucky Bluegrass” - Themes: Climate & Nature</li>
 <li>“Indianapolis” - Themes: Connection & Community</li>
-<br>
 
 <h3>Lawrence Reviewed Tutorial</h3>
 
