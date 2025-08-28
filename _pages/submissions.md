@@ -24,18 +24,22 @@ Lawrence Reviewed is soliciting digital stories from members of the KU and Lawre
 <br>
 <li>Images: all images should be in PNG or JPG format.</li>
 <br>
+
 Text submissions should be between 500 and 1500 words. Audio and video submissions should be between 5 and 10 minutes.
 
 <h3>Content</h3>
 
 This website is not Yelp or Google Reviews. While you may want to share a lower rating, as with Green’s book, the focus should be on your connection to a place or object and include thoughtful analysis. Entries should not be about attacking any particular place or person. Hate speech will not be tolerated. It is at the discretion of the project directors whether a review can be posted. 
 <br>
+
 If you are interested in submitting works as a group, please contact us so we can set up a specific page for your course or organization.
 
 <Policies>  
 
 If at any time you wish to have your review removed from the website, please email us. This is a public website, and what you publish will be accessible to anyone. 
 <br>
+
 Submissions will be reviewed the last week of each month. Submissions that do not follow content guidelines or file formats will be automatically discarded. 
 <br>
+
 All submissions and queries can be sent to lawrencereviewed@gmail.com.  
