@@ -33,4 +33,5 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <li>Rate Downtown @ LPL: April 8th 4-6 PM </li>
 <br>
 <li>Rate the Bee Tree @ Natural History Museum: April or May, dependent on the bees!</li>
+<br>
 Do you have an idea for a pop up event? Let us know at lawrencereviewed@gmail.com and we can help you set up your own!
