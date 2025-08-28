@@ -8,7 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-    .site-logo {
-      width: 300px; /* Sets the width to 200 pixels */
-      height: auto; /* Maintains the aspect ratio */
+.masthead__inner-wrap .site-logo {
+  max-width: 300px; /* Adjust this value as desired */
+  height: auto; /* Maintain aspect ratio */
     }
