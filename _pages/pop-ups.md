@@ -20,17 +20,17 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <br>
 <li>Rate KU Libraries @ Anschutz: September 17th, 10 AM-12 PM</li>
 <br>
-<li>Rate Your Hometown Dinosaur @ Natural History Museum: October 15th 10AM-12 PM</li>   
+<li>Rate Your Hometown Dinosaur @ Natural History Museum: October 15th, 10AM-12 PM</li>   
 <br>
 <li>Rate the “Big Tooter” @ Watson Library: October 22nd, 2-4 PM</li>
 <br>
 <li>Rate KU Basketball @ Location TBD: November 11th, 4-6 PM</li>  
 <br>
-<li>Rate Lawrence Public Library Artifacts @ LPL: January 29th 2026 6:30-8:00 PM</li> 
+<li>Rate Lawrence Public Library Artifacts @ LPL: January 29th, 6:30-8:00 PM</li> 
 <br>
-<li>Rate Mt. Oread @ Location TBD: March 4th 2-4PM</li>  
+<li>Rate Mt. Oread @ Location TBD: March 4th, 2-4PM</li>  
 <br>
-<li>Rate Downtown @ LPL: April 8th 4-6 PM </li>
+<li>Rate Downtown @ LPL: April 8th, 4-6 PM </li>
 <br>
 <li>Rate the Bee Tree @ Natural History Museum: April or May, dependent on the bees!</li>
 <br>
