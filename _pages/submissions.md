@@ -12,11 +12,11 @@ header:
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Ian Ballinger"
 ---
-<h2>Submission Guidelines<h2>
+<h2>Submission Guidelines</h2>
 
 Lawrence Reviewed is soliciting digital stories from members of the KU and Lawrence community that thoughtfully engage with memories and experiences of events, artifacts, landmarks, and institutions on campus and the surrounding city. We are asking for the contribution of reviews in the style of John Green’s The Anthropocene Review to be shared on this website. Submissions can take the form of short podcasts, videos, multimedia essays, and other forms. We just ask that you share your experiences and provide a rating on the 5-star scale. 
 
-<h3>File formats:<h3>
+<h3>File formats:</h3>
 
 <li>Text: any essays or other writings should be submitted as a .txt file or a .rtf document.</li>
 
