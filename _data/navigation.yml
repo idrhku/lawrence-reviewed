@@ -4,8 +4,8 @@ main:
   #  url: /about
   - title: "Curriculum"
     url: /curriculum
-  - title: "Community"
-    url: /community
+  - title: "Workshops"
+    url: /workshops
   - title: "Pop-Ups" 
     url: /pop-ups
   - title: "Reviews"

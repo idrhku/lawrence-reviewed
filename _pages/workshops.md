@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Community
-permalink: community
+title: Workshops
+permalink: workshops
 header:
   overlay_image: /assets/img/Lawrence,_Kansas_skyline_2018.jpg
   overlay_color: "#000"
