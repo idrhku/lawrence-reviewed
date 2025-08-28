@@ -4,10 +4,10 @@ main:
   #  url: /about
   - title: "Curriculum"
     url: /curriculum
-  - title: "Workshops"
-    url: /workshops
   - title: "Pop-Ups" 
     url: /pop-ups
+  - title: "Workshops"
+    url: /workshops
   - title: "Reviews"
     url: /reviews
   - title: "Submissions"
