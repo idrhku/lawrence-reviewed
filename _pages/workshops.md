@@ -26,7 +26,7 @@ Choose one of the following essays as the focus of a facilitated discussion (tit
 <li>“Three farmers on the way to the dance” (History, Photography)</li>
 <li>“Penguins of Madagascar” (Media & Myths)</li>
 <li>“Monopoly” (History & Capitalism)</li>
-<li>“Diet Dr. Pepper” (Themes: Innovation, Marketing, Vice)</li>
+<li>“Diet Dr. Pepper” (Innovation, Marketing, Vice)</li>
 <li> Hiroyuki Doi’s Circle Drawings (Mental Health)</li>
 <li>“Kentucky Bluegrass” (Climate & Nature)</li>
 <li>“Indianapolis” (Connection & Community)</li>
