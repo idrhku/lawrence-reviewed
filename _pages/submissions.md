@@ -19,9 +19,9 @@ Lawrence Reviewed is soliciting digital stories from members of the KU and Lawre
 <h3>File formats:</h3>
 
 <li>Text: any essays or other writings should be submitted as a .txt file or a .rtf document.</li>
-
+<br>
 <li>Audio and Video: provide a link to YouTube, Google Drive, or Vimeo. Video should be in MP4 format and audio should be in MP3 format. Make sure the settings are public.</li>
-
+<br>
 <li>Images: all images should be in PNG or JPG format.</li>
 
 Text submissions should be between 500 and 1500 words. Audio and video submissions should be between 5 and 10 minutes.
