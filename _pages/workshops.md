@@ -24,12 +24,12 @@ Want us to visit your class or a meeting of your organization? We also offer wor
 Choose one of the following essays as the focus of a facilitated discussion (titles and themes listed below):
 <br>
 <li>“Three farmers on the way to the dance” (History, Photography)</li>
-<li>“Penguins of Madagascar” - Themes: Media & Myths</li>
-<li>“Monopoly” - Themes: History & Capitalism</li>
-<li>“Diet Dr. Pepper”  - Themes: Innovation, Marketing, Vice</li>
-<li> Hiroyuki Doi’s Circle Drawings - Themes: Mental Health </li>
-<li>“Kentucky Bluegrass” - Themes: Climate & Nature</li>
-<li>“Indianapolis” - Themes: Connection & Community</li>
+<li>“Penguins of Madagascar” (Media & Myths)</li>
+<li>“Monopoly” (History & Capitalism)</li>
+<li>“Diet Dr. Pepper” (Themes: Innovation, Marketing, Vice)</li>
+<li> Hiroyuki Doi’s Circle Drawings (Mental Health)</li>
+<li>“Kentucky Bluegrass” (Climate & Nature)</li>
+<li>“Indianapolis” (Connection & Community)</li>
 
 <h3>Lawrence Reviewed Tutorial</h3>
 
