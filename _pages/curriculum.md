@@ -31,3 +31,5 @@ One way that KU Reads engages students with the Common Book is through coursewor
 <li>In “Air-Conditioning” and “Kentucky Bluegrass” Green explores the complex issues of our impact on the world around us, and the feeling that our individual impact doesn’t matter in the grand scheme of things. Do you agree with Green’s thought process here? Do you disagree? Why? </li>
 
 <h3>Sample Assignments</h3>
+<li><a href="https://kansas-my.sharepoint.com/:w:/g/personal/k859k152_home_ku_edu/EUn3IqppZJhBuEHFcypKdvMBza3J1H2WVKek0-tA_0rJiw?e=hlIEJs">ENGL 102 - Research Personal Essay, created by Emily Counsil</a></li>
+<li><a href="https://kansas-my.sharepoint.com/:w:/g/personal/k859k152_home_ku_edu/Ed7qJayEqftAtalYjdii8acBF2RzF7ScaD_iYQ1hHmc0kg?e=w09Ch7">Group Synthesis Podcast Episode Assignment, created by Emily Counsil</a></li>
