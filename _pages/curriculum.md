@@ -16,7 +16,7 @@ header:
 
 <h2>Using the Common Book in Your Class </h2>
 
-One way that KU Reads engages students with the Common Book is through coursework. Faculty and instructors are encouraged to integrate the Common Book into their courses by exploring the themes throughout the book and making connections to their discipline. On the <a href="https://commonbook.ku.edu">KU Reads website</a>, instructors will find teaching resources that support integration of the Common Book into the classroom. 
+One way that KU Reads engages students with the Common Book is through coursework. Faculty and instructors are encouraged to integrate the Common Book into their courses by exploring the themes throughout the book and making connections to their discipline. On the <a href="https://commonbook.ku.edu" target="_blank">KU Reads website</a>, instructors will find teaching resources that support integration of the Common Book into the classroom. 
 
 <h3>Sample Discussion Questions</h3>
 
@@ -31,5 +31,5 @@ One way that KU Reads engages students with the Common Book is through coursewor
 <li>In “Air-Conditioning” and “Kentucky Bluegrass” Green explores the complex issues of our impact on the world around us, and the feeling that our individual impact doesn’t matter in the grand scheme of things. Do you agree with Green’s thought process here? Do you disagree? Why? </li>
 
 <h3>Sample Assignments</h3>
-<li><a href="https://kansas-my.sharepoint.com/:w:/g/personal/k859k152_home_ku_edu/EUn3IqppZJhBuEHFcypKdvMBza3J1H2WVKek0-tA_0rJiw?e=hlIEJs">ENGL 102 - Research Personal Essay, created by Emily Counsil</a></li>
-<li><a href="https://kansas-my.sharepoint.com/:w:/g/personal/k859k152_home_ku_edu/Ed7qJayEqftAtalYjdii8acBF2RzF7ScaD_iYQ1hHmc0kg?e=w09Ch7">Group Synthesis Podcast Episode Assignment, created by Emily Counsil</a></li>
+<li><a href="https://kansas-my.sharepoint.com/:w:/g/personal/k859k152_home_ku_edu/EUn3IqppZJhBuEHFcypKdvMBza3J1H2WVKek0-tA_0rJiw?e=hlIEJs" target="_blank">ENGL 102 - Research Personal Essay, created by Emily Counsil</a></li>
+<li><a href="https://kansas-my.sharepoint.com/:w:/g/personal/k859k152_home_ku_edu/Ed7qJayEqftAtalYjdii8acBF2RzF7ScaD_iYQ1hHmc0kg?e=w09Ch7" target="_blank">Group Synthesis Podcast Episode Assignment, created by Emily Counsil</a></li>
