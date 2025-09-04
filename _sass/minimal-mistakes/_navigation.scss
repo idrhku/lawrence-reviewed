@@ -193,6 +193,10 @@
     &.site-logo {
       margin-inline-start: 0;
       margin-inline-end: 0.5rem;
+      width: 300px; /* Adjust as needed */
+      height: auto; /* Maintain aspect ratio */
+      max-width: 100%; /* Ensure it doesn't overflow its container */
+        }
     }
 
     &.site-title {
