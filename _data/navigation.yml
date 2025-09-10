@@ -12,6 +12,10 @@ main:
     url: /reviews
   - title: "Submissions"
     url: /submissions
+  - title: "People"
+    url: /people
+
+
 
   # - title: "Sample Posts"
   #   url: /year-archive/
