@@ -26,7 +26,7 @@ Samantha Greeson is the Common Book Librarian for the University of Kansas Libra
 <br>
 <h3>Katherine I. Knowles</h3>
 
-<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/katherine-knowles.jpg" alt="Brian Rosenblum" width="150">Katherine I. Knowles is the Digital & Public Humanities Postdoctoral Researcher for the Hall Center for the Humanities and Institute for Digital Research in the Humanities. Her research focuses on Shakespeare, memory studies, cultural heritage, and the digital and public humanities. Knowles received her PhD in English from Michigan State University in 2024. She was previously a researcher and project manager for the IRIS Digital Humanities Center at Southern Illinois University Edwardsville from 2017-2019. 
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/katherine-knowles.jpg" alt="Brian Rosenblum" width="150">Katherine I. Knowles is the Digital & Public Humanities Postdoctoral Researcher for the Hall Center for the Humanities and Institute for Digital Research in the Humanities. Her research focuses on Shakespeare, memory studies, cultural heritage, and the digital and public humanities. Knowles received her PhD in English with a Graduate Certificate in Digital Humanities from Michigan State University in 2024.  
 <br>
 <br>
 **Website: <https://kiknowles.com>**  
