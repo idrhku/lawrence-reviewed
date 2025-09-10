@@ -19,7 +19,6 @@ header:
 
 <img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/samantha-greeson.jpg" alt="Samantha Greeson" width="150">
 Samantha Greeson is the Common Book Librarian for the University of Kansas Libraries.   
-<br>
 **Email: <sgreeson@ku.edu>**
 <br>
 <br>
