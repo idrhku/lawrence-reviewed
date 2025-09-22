@@ -26,6 +26,8 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <br>
 <li>Rate KU Basketball @ Location TBD: November 11th, 4-6 PM</li>  
 <br>
+<li>Rate the Sacred Red Rock @ Spencer Museum of Art: December 2nd, 2-4 PM</li>
+<br>
 <li>Rate Lawrence Public Library Artifacts @ LPL: January 29th, 6:30-8:00 PM</li> 
 <br>
 <li>Rate Mt. Oread @ Location TBD: March 4th, 2-4PM</li>  
