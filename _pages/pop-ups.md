@@ -16,22 +16,26 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 
 <h2>Upcoming Events:</h2>
 
-<li>Rate the Jayhawk @ Kansas Student Union: September 10th, 10 AM-12 PM</li> 
+<li>Review the Jayhawk @ Kansas Student Union: September 10th, 10 AM-12 PM</li> 
 <br>
-<li>Rate KU Libraries @ Anschutz: September 17th, 10 AM-12 PM</li>
+<li>Review KU Libraries @ Anschutz: September 17th, 10 AM-12 PM</li>
 <br>
-<li>Rate Your Hometown Dinosaur @ Natural History Museum: October 15th, 10AM-12 PM</li>   
+<li>Review Your Hometown Dinosaur @ Natural History Museum: October 15th, 10AM-12 PM</li>   
 <br>
-<li>Rate the “Big Tooter” @ Watson Library: October 22nd, 2-4 PM</li>
+<li>Review the “Big Tooter” @ Watson Library: October 22nd, 2-4 PM</li>
 <br>
-<li>Rate the Sacred Red Rock @ Spencer Museum of Art: December 2nd, 2-4 PM</li>
+<li>Review the Sacred Red Rock @ Spencer Museum of Art: December 2nd, 2-4 PM</li>
 <br>
-<li>Rate Lawrence Public Library Artifacts @ LPL: January 29th, 6:30-8:00 PM</li> 
+<li>Review Lawrence Public Library Artifacts @ LPL: January 29th, 6:30-8:00 PM</li> 
 <br>
-<li>Rate Mt. Oread @ Location TBD: March 4th, 2-4PM</li>  
+<li>Review Mt. Oread - Time & Date TBD</li>  
 <br>
-<li>Rate Downtown @ LPL: April 8th, 4-6 PM </li>
+<li>Review Spencer Research Library - Time & Date TBD</li>
 <br>
-<li>Rate the Bee Tree @ Natural History Museum: April or May, dependent on the bees!</li>
+<li>Review KU Basketball - Time & Date TBD</li>
+<br>
+<li>Review Downtown @ LPL: April 9th, 4-6 PM </li>
+<br>
+<li>Review the Bee Tree @ Natural History Museum: April or May, dependent on the bees!</li>
 <br>
 Do you have an idea for a pop up event? Let us know at lawrencereviewed@gmail.com and we can help you set up your own!
