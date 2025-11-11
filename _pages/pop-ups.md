@@ -28,7 +28,7 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <br>
 <li>Review Lawrence Public Library Artifacts @ LPL: January 29th, 6:30-8:00 PM</li> 
 <br>
-<li>Review Spencer Research Library - February 5th, 10 AM-12 PM</li>
+<li>Review the North Family Papers @ Spencer Research Library: February 5th, 10 AM-12 PM</li>
 <br>
 <li>Review Mt. Oread - Time & Date TBD</li>  
 <br>
