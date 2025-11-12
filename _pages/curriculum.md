@@ -33,3 +33,4 @@ One way that KU Reads engages students with the Common Book is through coursewor
 <h3>Sample Assignments</h3>
 <li><a href="https://kansas-my.sharepoint.com/:w:/g/personal/k859k152_home_ku_edu/EUn3IqppZJhBuEHFcypKdvMBza3J1H2WVKek0-tA_0rJiw?e=hlIEJs" target="_blank">ENGL 102 - Research Personal Essay, created by Emily Counsil</a></li>
 <li><a href="https://kansas-my.sharepoint.com/:w:/g/personal/k859k152_home_ku_edu/Ed7qJayEqftAtalYjdii8acBF2RzF7ScaD_iYQ1hHmc0kg?e=w09Ch7" target="_blank">Group Synthesis Podcast Episode Assignment, created by Emily Counsil</a></li>
+<li><a href="https://kansas-my.sharepoint.com/:w:/g/personal/k859k152_home_ku_edu/IQAPEQ1nGIkIQ5GOu6GUqK1oAduw-m-oM8nINGBFzLwqm1U?e=e37zpZ" target="_blank">Prompt Examples for In-Class Activity, created by Samantha Greeson</a></li>
