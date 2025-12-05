@@ -12,8 +12,8 @@ header:
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Ian Ballinger"
 ---
-<h2>by Natalie Friend</h2>
-<img align="center" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/Cider Gallery Before Dawn, Nov 2024.jpeg" alt="Cider Gallery Before Dawn, November 2024" width="300">
+<h2>The Ballot Box Reviewed by Natalie Friend</h2>
+<img align="center" src="{{ site.baseurl }}/assets/img/Cider Gallery Before Dawn, Nov 2024.jpeg" alt="Cider Gallery Before Dawn, November 2024">
 <p>The car smells strongly of horse feed, and I’ve got a piece of hay jabbing me in the back. We’re idling at a stoplight while an unassuming black bag sits between us. Suddenly, I’ve got visions of dramatic car chases, silver briefcases, and action heroes in tight leather. It’s 8:27 on election night, and I’m a Douglas County, Kansas poll worker.</p> 
 <p>At the end of a 14-hour day, we’re completing our last task – driving the results flash drive, ballots, and other secure materials eight minutes from our polling place at the Cider Gallery to the county election office on 23rd Street. The journey is both infinite and brief.</p>  
 <p>I wonder: is this the moment the action movie comes to life? No. The drive passes uneventfully, and we successfully deliver our package, sign the custody forms, pass through the checks, and then depart. This unremarkable moment is what democracy looks like: quiet, procedural, entirely ordinary, yet incredibly monumental.</p> 
@@ -41,5 +41,6 @@ header:
 <p>It isn’t a guarantee, but a daily practice. A fragile, faithful, fought-for ritual.</p> 
 <p>For this, I give the ballot box 4 ½ stars.</p>
 
+<img align="center" src="{{ site.baseurl }}/assets/img/DC Ballot Drop Box Oct 2025.JPG" alt="Douglas County Ballot Dro Box, October 2025">
 
 <em>*All names have been changed to protect my fellow poll workers’ privacy.</em>
