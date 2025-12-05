@@ -12,9 +12,8 @@ header:
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Ian Ballinger"
 ---
-<h2>The Ballot Box Reviewed</h2>
-<h3>Natalie Friend</h3>
-
+<h2>by Natalie Friend</h2>
+<img align="center" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/Cider Gallery Before Dawn, Nov 2024.jpeg" alt="Cider Gallery Before Dawn, November 2024" width="300">
 <p>The car smells strongly of horse feed, and I’ve got a piece of hay jabbing me in the back. We’re idling at a stoplight while an unassuming black bag sits between us. Suddenly, I’ve got visions of dramatic car chases, silver briefcases, and action heroes in tight leather. It’s 8:27 on election night, and I’m a Douglas County, Kansas poll worker.</p> 
 <p>At the end of a 14-hour day, we’re completing our last task – driving the results flash drive, ballots, and other secure materials eight minutes from our polling place at the Cider Gallery to the county election office on 23rd Street. The journey is both infinite and brief.</p>  
 <p>I wonder: is this the moment the action movie comes to life? No. The drive passes uneventfully, and we successfully deliver our package, sign the custody forms, pass through the checks, and then depart. This unremarkable moment is what democracy looks like: quiet, procedural, entirely ordinary, yet incredibly monumental.</p> 
@@ -37,7 +36,7 @@ header:
 <p>This work brings people from wildly different backgrounds together: Democrats and Republicans, young and old, passionate activists or nonplussed and nonpolitical. Despite our differences, we poll workers are all united and motivated by an enduring sense of duty, pride, and community.</p> 
 <p>We do have our quirks. Linda* is an avid horsewoman, oil painter, and mushroom forager. In addition to good stories, she always brings more than enough snacks to share. Jean, who seems to know nearly every voter by name, carries on the poll working tradition her mother started. When I first began in 2022, “Crazy Bill” wore the same silk American flag vest, weathered cowboy hat, and vintage election pins every day of early voting. As polling place supervisor, he ran a tight ship and always made sure everyone got a lunch break (even if he didn’t). Sydney was a high school senior serving – and voting – in the first election in which she was eligible. Her poise, maturity, and efficiency impressed us all.</p>
 <p>Democracy is embodied in the people who make it work. In our neighbors, colleagues, friends, and foes. It’s the most ordinary heroism imaginable, and it’s all around us. The respect that poll workers have for each other, for the election office, for the voter, and for our country is clear. In them, I see the American experiment in miniature: earnest, determined, and intrinsically human.</p>
-----
+-----
 <p>In Lawrence, democracy isn’t abstract. It’s in the street names, the bar signs, the murals, and the ghosts of printing presses past that once demanded freedom. It’s something you inherit, protect, and keep remaking. It’s in the flag-draped ballot box outside the old courthouse, the first-time voter you pass on the street, and the poll workers rising long before dawn.</p> 
 <p>It isn’t a guarantee, but a daily practice. A fragile, faithful, fought-for ritual.</p> 
 <p>For this, I give the ballot box 4 ½ stars.</p>
