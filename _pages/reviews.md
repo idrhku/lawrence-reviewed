@@ -15,4 +15,4 @@ header:
 
 Browse the gallery of contributed reviews from KU students and the wider Lawrence community!
 
-[The Ballot Box Reviewed by Natalie Friend](lawrencereviewed.com/ballotbox)
+[The Ballot Box Reviewed by Natalie Friend](/ballotbox)
