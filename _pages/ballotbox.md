@@ -52,6 +52,6 @@ header:
 <em>*All names have been changed to protect my fellow poll workers’ privacy.</em>
 
 <hr>
-Natalie Friend is a master's in public administration student at KU and a local poll worker. 
+<p>Natalie Friend is a master's in public administration student at KU and a local poll worker.</p> 
 <br>
-The opinions expressed here are her own and do not necessarily reflect the views of the county election office or of KU.
+<p>The opinions expressed here are her own and do not necessarily reflect the views of the county election office or of KU.</p>
