@@ -22,7 +22,7 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <br>
 <li>Review Mt. Oread - Time & Date TBD</li>  
 <br>
-<li>Review KU Basketball - Time & Date TBD</li>
+<li>Review KU Basketball @ Watson Library: March 3rd, 8:00-10:00 PM</li>
 <br>
 <li>Review Downtown Lawrence @ LPL: April 9th, 4-6 PM </li>
 <br>
