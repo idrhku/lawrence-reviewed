@@ -20,8 +20,6 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <br>
 <li>Review the North Family Papers @ Spencer Research Library: February 5th, 10 AM-12 PM</li>
 <br>
-<li></li>  
-<br>
 <li>Review KU Basketball @ Watson Library: March 3rd, 8:00-10:00 PM</li>
 <br>
 <li>Review Downtown Lawrence @ LPL: April 9th, 4-6 PM </li>
