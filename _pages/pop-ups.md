@@ -24,7 +24,7 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <br>
 <li>Review KU Basketball - Time & Date TBD</li>
 <br>
-<li>Review Downtown @ LPL: April 9th, 4-6 PM </li>
+<li>Review Downtown Lawrence @ LPL: April 9th, 4-6 PM </li>
 <br>
 <li>Review the Bee Tree @ Natural History Museum: April or May, dependent on the bees!</li>
 <br>
