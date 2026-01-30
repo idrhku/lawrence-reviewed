@@ -9,7 +9,7 @@
     #overlay_image: /assets/images/unsplash-image-1.jpg
   
   gallery:
-   - image_path: assets/img/Journey/SMA_Common_Book_Map_01.jpg
+    - image_path: assets/img/Journey/SMA_Common_Book_Map_01.jpg
       url: assets/img/Journey/SMA_Common_Book_Map_01.jpg
       alt: "response 1"
     - image_path: assets/img/Journey/SMA_Common_Book_Map_02.jpg
