@@ -74,6 +74,10 @@
 
 <p>I give my journey to Lawrence, KS 4 Stars. It wasn’t an easy journey, and I’ve made plenty of mistakes along the way, but I’m so glad that it all led me to Lawrence, where I am closer to my tribal community and surrounded by a large Native population thanks to Haskell Indian Nations University. I’m proud to live here and contribute to projects that have positive impacts in Lawrence and beyond. </p>
 
+<hr>
+<p>Sydney Pursel is the Spencer Museum of Art's Curator for Public Practice. In this role, she initiates ways to involve community and incorporate feedback into exhibitions and programs. .</p> 
+<br>
+
 <h2>I give my journey to Lawrence, Kansas...</h2>
 
 <p>Prompt: The Sacred Red Rock traveled to Kansas via the glaciers, was moved to Lawrence in 1929 and was recently relocated to Kaw lands near Council Grove. Share a memory or reflection about your own journey to Lawrence, and draw it on the map!</p>
