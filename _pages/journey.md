@@ -61,7 +61,7 @@
 ---
 <em>On December 2, 2025, Lawrence Reviewed was invited to host a pop-up event at the Spencer Museum of Art, where we asked visitors to review their journey to Lawrence, Kansas. Explore their responses in the gallery below.</em>
 
-{% include gallery id="gallery" class="full"%}
+{% include gallery id="gallery" class="full" caption="In addition to answering our prompt, attendees drew their journey to Lawrence on one of these maps."%}
 
 <h2>Featured Review by Sydney Pursel</h2>
 
