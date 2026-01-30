@@ -9,16 +9,12 @@
     #overlay_image: /assets/images/unsplash-image-1.jpg
   
   gallery:
-    url: assets/img/Journey/IMG_20251222_0001.jpg
     image_path: assets/img/Journey/IMG_20251222_0001.jpg
     alt: "response 1"
-    url: assets/img/Journey/IMG_20251222_0002.jpg
     image_path: assets/img/Journey/IMG_20251222_0002.jpg
     alt: "response 2"
-    url: assets/img/Journey/IMG_20251222_0003.jpg
     image_path: assets/img/Journey/IMG_20251222_0003.jpg
     alt: "response 3"
-    url: assets/img/Journey/IMG_20251222_0004.jpg
     image_path: assets/img/Journey/IMG_20251222_0004.jpg
     alt: "response 4"
     
