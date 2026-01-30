@@ -29,6 +29,6 @@
 ---
 <h2>Review Your Journey to Kansas at the Spencer Museum of Art</h2>
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="The Sacred Red Rock traveled to Kansas via the glaciers, was moved to Lawrence in 1929 and was recently relocated to Kaw lands near Council Grove. Share a memory or reflection about your own journey to Lawrence, and draw it on the map!" %}
 
 
