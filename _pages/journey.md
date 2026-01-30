@@ -59,6 +59,7 @@
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Ian Ballinger"
 ---
+<em>On December 2, 2025, Lawrence Reviewed was invited to host a pop-up event at the Spencer Museum of Art, where we asked visitors to review their journey to Lawrence, Kansas. Explore their responses in the gallery below.</em>
 
 {% include gallery id="gallery"%}
 
@@ -75,7 +76,7 @@
 <p>I give my journey to Lawrence, KS 4 Stars. It wasn’t an easy journey, and I’ve made plenty of mistakes along the way, but I’m so glad that it all led me to Lawrence, where I am closer to my tribal community and surrounded by a large Native population thanks to Haskell Indian Nations University. I’m proud to live here and contribute to projects that have positive impacts in Lawrence and beyond. </p>
 
 <hr>
-<p>Sydney Pursel is the Spencer Museum of Art's Curator for Public Practice. In this role, she initiates ways to involve community and incorporate feedback into exhibitions and programs. .</p> 
+<p>Sydney Pursel is the Spencer Museum of Art's Curator for Public Practice. In this role, she initiates ways to involve community and incorporate feedback into exhibitions and programs.</p> 
 <br>
 
 <h2>I give my journey to Lawrence, Kansas...</h2>
