@@ -9,14 +9,14 @@
     #overlay_image: /assets/images/unsplash-image-1.jpg
   
   gallery:
-    image_path: assets/img/Journey/IMG_20251222_0001.jpg
-    alt: "response 1"
-    image_path: assets/img/Journey/IMG_20251222_0002.jpg
-    alt: "response 2"
-    image_path: assets/img/Journey/IMG_20251222_0003.jpg
-    alt: "response 3"
-    image_path: assets/img/Journey/IMG_20251222_0004.jpg
-    alt: "response 4"
+    - image_path: assets/img/Journey/IMG_20251222_0001.jpg
+      alt: "response 1"
+    - image_path: assets/img/Journey/IMG_20251222_0002.jpg
+      alt: "response 2"
+    - image_path: assets/img/Journey/IMG_20251222_0003.jpg
+      alt: "response 3"
+    - image_path: assets/img/Journey/IMG_20251222_0004.jpg
+      alt: "response 4"
     
   # actions:
   #   - label: "Download"
@@ -25,6 +25,6 @@
 ---
 <h2>Review Your Journey to Kansas at the Spencer Museum of Art</h2>
 
-{% include gallery id="image_gallery" caption="The Sacred Red Rock traveled to Kansas via the glaciers, was moved to Lawrence in 1929 and was recently relocated to Kaw lands near Council Grove. Share a memory or reflection about your own journey to Lawrence, and draw it on the map!" %}
+{% include gallery id="gallery" caption="The Sacred Red Rock traveled to Kansas via the glaciers, was moved to Lawrence in 1929 and was recently relocated to Kaw lands near Council Grove. Share a memory or reflection about your own journey to Lawrence, and draw it on the map!" %}
 
 
