@@ -10,26 +10,37 @@
   
   gallery:
     - image_path: assets/img/Journey/IMG_20251222_0001.jpg
+      url: assets/img/Journey/IMG_20251222_0001.jpg
       alt: "response 1"
     - image_path: assets/img/Journey/IMG_20251222_0002.jpg
+      url: assets/img/Journey/IMG_20251222_0002.jpg
       alt: "response 2"
     - image_path: assets/img/Journey/IMG_20251222_0003.jpg
+      url: assets/img/Journey/IMG_20251222_0003.jpg
       alt: "response 3"
     - image_path: assets/img/Journey/IMG_20251222_0004.jpg
+      url: assets/img/Journey/IMG_20251222_0004.jpg
       alt: "response 4"
     - image_path: assets/img/Journey/IMG_20251222_0005.jpg
+      url: assets/img/Journey/IMG_20251222_0005.jpg
       alt: "response 5"
     - image_path: assets/img/Journey/IMG_20251222_0006.jpg
+      url: assets/img/Journey/IMG_20251222_0006.jpg
       alt: "response 6"
     - image_path: assets/img/Journey/IMG_20251222_0007.jpg
+      url: assets/img/Journey/IMG_20251222_0007.jpg
       alt: "response 7"
     - image_path: assets/img/Journey/IMG_20251222_0008.jpg
+      url: assets/img/Journey/IMG_20251222_0008.jpg
       alt: "response 8"
     - image_path: assets/img/Journey/IMG_20251222_0009.jpg
+      url: assets/img/Journey/IMG_20251222_0009.jpg
       alt: "response 9"
     - image_path: assets/img/Journey/IMG_20251222_0010.jpg
+      url: assets/img/Journey/IMG_20251222_0010.jpg
       alt: "response 10"
     - image_path: assets/img/Journey/IMG_20251222_0011.jpg
+      url: assets/img/Journey/IMG_20251222_0011.jpg
       alt: "response 11"
     
   # actions:
