@@ -17,6 +17,20 @@
       alt: "response 3"
     - image_path: assets/img/Journey/IMG_20251222_0004.jpg
       alt: "response 4"
+    - image_path: assets/img/Journey/IMG_20251222_0005.jpg
+      alt: "response 5"
+    - image_path: assets/img/Journey/IMG_20251222_0006.jpg
+      alt: "response 6"
+    - image_path: assets/img/Journey/IMG_20251222_0007.jpg
+      alt: "response 7"
+    - image_path: assets/img/Journey/IMG_20251222_0008.jpg
+      alt: "response 8"
+    - image_path: assets/img/Journey/IMG_20251222_0009.jpg
+      alt: "response 9"
+    - image_path: assets/img/Journey/IMG_20251222_0010.jpg
+      alt: "response 10"
+    - image_path: assets/img/Journey/IMG_20251222_0011.jpg
+      alt: "response 11"
     
   # actions:
   #   - label: "Download"
