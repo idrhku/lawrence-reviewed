@@ -1,14 +1,14 @@
 ---
-layout: single
-title: Review your Journey to Kansas at the Spencer Museum of Art
-permalink: spencer-journey
-header:
-  overlay_image: /assets/img/Lawrence,_Kansas_skyline_2018.jpg
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  #overlay_image: /assets/images/unsplash-image-1.jpg
+  layout: single
+  title: Review your Journey to Kansas at the Spencer Museum of Art
+  permalink: spencer-journey
+  header:
+    overlay_image: /assets/img/Lawrence,_Kansas_skyline_2018.jpg
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    #overlay_image: /assets/images/unsplash-image-1.jpg
   
-gallery:
+  gallery:
     url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
