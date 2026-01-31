@@ -1,6 +1,6 @@
 ---
   layout: single
-  title: Review Your Hometown Dinosaur @ KU Natural History Museum
+  title: Review KU Libraries @ Anschutz Library
   permalink: ku-libraries
   header:
     overlay_image: /assets/img/Lawrence,_Kansas_skyline_2018.jpg
