@@ -164,7 +164,7 @@ layout: single
     - image_path: assets/img/KULibraries/IMG_20251222_0052.jpg
       url: assets/img/KULibraries/IMG_20251222_0052.jpg
       alt: "response 52"
-- image_path: assets/img/KULibraries/IMG_20251222_0053.jpg
+    - image_path: assets/img/KULibraries/IMG_20251222_0053.jpg
       url: assets/img/KULibraries/IMG_20251222_0053.jpg
       alt: "response 53"
     - image_path: assets/img/KULibraries/IMG_20251222_0054.jpg
