@@ -31,7 +31,7 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 
 - Review the Jayhawk @ Kansas Student Union: September 10th, 10 AM-12 PM 
 
-- Review KU Libraries @ Anschutz: September 17th, 10 AM-12 PM
+- [Review KU Libraries @ Anschutz](/ku-libraries): September 17th, 10 AM-12 PM
   
 - [Review Your Hometown Dinosaur](/hometown-dinosaur) @ Natural History Museum: October 15th, 10AM-12 PM  
 
