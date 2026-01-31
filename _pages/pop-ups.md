@@ -37,7 +37,7 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <br>
 <li>Review the “Big Tooter” @ Watson Library: October 22nd, 2-4 PM</li>
 <br>
-<li>[Review the Sacred Red Rock @ Spencer Museum of Art](/spencer-journey): December 2nd, 2-4 PM</li>
+<li> [Review the Sacred Red Rock @ Spencer Museum of Art](/spencer-journey): December 2nd, 2-4 PM</li>
 <br>
 <li>Review The Anthropocene: Kansas Edition! @ LPL: January 29th, 6:30-8:00 PM</li> 
 
