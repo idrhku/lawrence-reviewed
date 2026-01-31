@@ -1,4 +1,5 @@
-layout: single
+---
+  layout: single
   title: Review Your Hometown Dinosaur @ KU Natural History Museum
   permalink: hometown-dinosaur
   header:
