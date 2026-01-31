@@ -1,6 +1,6 @@
 ---
   layout: single
-  title: Review Your Hometown Dinosaur @ Natural History Museum
+  title: Review Your Hometown Dinosaur @ KU Natural History Museum
   permalink: hometown-dinosaur
   header:
     overlay_image: /assets/img/Lawrence,_Kansas_skyline_2018.jpg
@@ -74,7 +74,11 @@
 ---
 <em>On October 15, 2025, Lawrence Reviewed was invited to host a pop-up event at the Natural History Museum for Fossil Day, where we asked visitors to review their hometown dinosaur. Explore their responses in the gallery below.</em>
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1457041608710206%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>   
+<figure>
+  <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1457041608710206%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>  
+  <figcaption>Video courtesy of KU Libraries.</figcaption>
+</figure>
+ 
 
 <h2>I give the KU Natural History Museum...</h2>
 
