@@ -30,15 +30,15 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <h2>Past Events:</h2>
 
 - Review the Jayhawk @ Kansas Student Union: September 10th, 10 AM-12 PM 
-<br>
+
 - Review KU Libraries @ Anschutz: September 17th, 10 AM-12 PM
-<br>
+  
 - Review Your Hometown Dinosaur @ Natural History Museum: October 15th, 10AM-12 PM  
-<br>
+
 - Review the “Big Tooter” @ Watson Library: October 22nd, 2-4 PM
-<br>
+
 - [Review the Sacred Red Rock @ Spencer Museum of Art](/spencer-journey): December 2nd, 2-4 PM
-<br>
+
 - Review The Anthropocene: Kansas Edition! @ LPL: January 29th, 6:30-8:00 PM
 
 <br>
