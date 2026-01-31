@@ -15,4 +15,5 @@ header:
 
 Browse the gallery of contributed reviews from KU students and the wider Lawrence community!
 
+[Review Your Journey to Lawrence, Kansas @ Spencer Museum of Art](/spencer-journey)
 [The Ballot Box Reviewed by Natalie Friend](/ballotbox)
