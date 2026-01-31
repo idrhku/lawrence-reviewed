@@ -16,8 +16,6 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 
 <h2>Upcoming Events:</h2>
 
-<li>Review The Anthropocene: Kansas Edition! @ LPL: January 29th, 6:30-8:00 PM</li> 
-<br>
 <li>Review the North Family Papers @ Spencer Research Library: February 5th, 10 AM-12 PM</li>
 <br>
 <li>Review KU Basketball @ Watson Library: March 3rd, 8:00-10:00 PM</li>
@@ -39,7 +37,10 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 <br>
 <li>Review the “Big Tooter” @ Watson Library: October 22nd, 2-4 PM</li>
 <br>
-<li>Review the Sacred Red Rock @ Spencer Museum of Art: December 2nd, 2-4 PM</li>
+<li>[Review the Sacred Red Rock @ Spencer Museum of Art](/spencer-journey): December 2nd, 2-4 PM</li>
+<br>
+<li>Review The Anthropocene: Kansas Edition! @ LPL: January 29th, 6:30-8:00 PM</li> 
+
 <br>
 <br>
 Do you have an idea for a pop up event? Let us know at lawrencereviewed@gmail.com and we can help you set up your own!
