@@ -74,11 +74,11 @@
 ---
 <em>On October 15, 2025, Lawrence Reviewed was invited to host a pop-up event at the Natural History Museum for Fossil Day, where we asked visitors to review their hometown dinosaur. Explore their responses in the gallery below.</em>
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1457041608710206%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1457041608710206%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>                                                                                            {% include caption="Video courtesy of KU Libraries"%}                                
 
 <h2>I give the KU Natural History Museum...</h2>
 
 <p>Prompt: Share a memory, story, or experience about visiting the KU Natural History Museum. If you’re a first time visitor, share the exhibit you enjoyed most (maybe your encounter with <em>Silvisaurus condrayi</em>, your hometown dinosaur)!</p>
 
-{% include gallery id="gallery2"%}
-<em>On December 2, 2025, Lawrence Reviewed was invited to host a pop-up event at the Spencer Museum of Art, where we asked visitors to review their journey to Lawrence, Kansas. Explore their responses in the gallery below.</em>
+{% include gallery id="gallery"%}
+
