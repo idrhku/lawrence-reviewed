@@ -48,7 +48,7 @@
     - image_path: assets/img/KULibraries/IMG_20251222_0013.jpg
       url: assets/img/KULibraries/IMG_20251222_0013.jpg
       alt: "response 13"
-    - image_path: Print assets/img/KULibraries/IMG_20251222_0014.jpg
+    - image_path: assets/img/KULibraries/IMG_20251222_0014.jpg
       url: assets/img/KULibraries/IMG_20251222_0014.jpg
       alt: "response 14"
     - image_path: assets/img/KULibraries/IMG_20251222_0015.jpg
