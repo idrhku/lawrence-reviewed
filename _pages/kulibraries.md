@@ -267,7 +267,7 @@
 <p>For all that they are, and all that they strive to be, I give KU Libraries 4 stars. May the fifth, yet to be fulfilled star sit like space on the shelf, open and full of promise, a place for the new discoveries we will make, and new points of view, yet to be heard.</p>  
 
 <hr>
-<p>Wendy Conover is...</p> 
+<p>Wendy Conover is the KU Libraries Communications Coordinator through the Office of Communications and Advancement.</p> 
 <br>
 
 <h2>I give KU Libraries...</h2>
