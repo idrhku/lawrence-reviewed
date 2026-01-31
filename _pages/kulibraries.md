@@ -1,7 +1,7 @@
 ---
   layout: single
   title: Review Your Hometown Dinosaur @ KU Natural History Museum
-  permalink: hometown-dinosaur
+  permalink: ku-libraries
   header:
     overlay_image: /assets/img/Lawrence,_Kansas_skyline_2018.jpg
     overlay_color: "#000"
