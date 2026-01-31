@@ -21,7 +21,7 @@
     - image_path: assets/img/Silvisaurus/IMG_20251222_0004.jpg
       url: assets/img/Silvisaurus/IMG_20251222_0004.jpg
       alt: "response 4"
-   - image_path: assets/img/Silvisaurus/IMG_20251222_0005.jpg
+    - image_path: assets/img/Silvisaurus/IMG_20251222_0005.jpg
       url: assets/img/Silvisaurus/IMG_20251222_0005.jpg
       alt: "response 5"
     - image_path: assets/img/Silvisaurus/IMG_20251222_0006.jpg
