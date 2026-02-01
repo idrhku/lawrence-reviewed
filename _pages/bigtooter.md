@@ -78,7 +78,7 @@
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Ian Ballinger"
 ---
-<em>On October 22, 2025, Lawrence Reviewed set up outside of Watson Library, where we asked passersby to review KU's steamwhistle, "Big Tooter". Explore their responses in the gallery below.</em>
+<em>On October 22, 2025, Lawrence Reviewed set up outside of Watson Library, where we asked passersby to review KU's steam whistle, "Big Tooter". Explore their responses in the gallery below.</em>
 <h2>I give Big Tooter...</h2>
 
 <p>Prompt: Share a memory, story, or experience related to KU’s steam whistle, “Big Tooter”</p>
