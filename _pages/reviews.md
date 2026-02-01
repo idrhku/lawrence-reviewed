@@ -21,3 +21,5 @@ Browse the gallery of contributed reviews from KU students and the wider Lawrenc
 - [Review Fifty Years of the Humanities @ the Hall Center](/hall-center)
 - [Review Your Hometown Dinosaur @ KU Natural History Museum](/hometown-dinosaur)
 - [Review KU Libraries @ Anschutz Library](/ku-libraries)
+- Review the Jayhawk @ Kansas Student Union
+- Review the Jayhawk @ Jayhawk Jumpstart
