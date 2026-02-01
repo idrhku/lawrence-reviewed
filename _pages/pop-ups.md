@@ -35,7 +35,7 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
   
 - [Review Your Hometown Dinosaur](/hometown-dinosaur) @ Natural History Museum: October 15th, 10AM-12 PM  
 
-- [Review the “Big Tooter” @ Watson Library[(/big-tooter): October 22nd, 2-4 PM
+- [Review the “Big Tooter” @ Watson Library](/big-tooter): October 22nd, 2-4 PM
 
 - [Review the Sacred Red Rock @ Spencer Museum of Art](/spencer-journey): December 2nd, 2-4 PM
 
