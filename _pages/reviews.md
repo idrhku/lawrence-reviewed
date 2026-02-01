@@ -17,5 +17,6 @@ Browse the gallery of contributed reviews from KU students and the wider Lawrenc
 
 - [Review Your Journey to Lawrence, Kansas @ Spencer Museum of Art](/spencer-journey)
 - [The Ballot Box Reviewed by Natalie Friend](/ballotbox)
+- [Review the “Big Tooter” @ Watson Library](/big-tooter)
 - [Review Your Hometown Dinosaur @ KU Natural History Museum](/hometown-dinosaur)
 - [Review KU Libraries @ Anschutz Library](/ku-libraries)
