@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Review the Jayhawk @ Jayhawk Jumpstart
+title: Review the Jayhawk @ Jayhawk JumpStart
 permalink: jayhawk-jumpstart
 header:
   overlay_image: /assets/img/Lawrence,_Kansas_skyline_2018.jpg
