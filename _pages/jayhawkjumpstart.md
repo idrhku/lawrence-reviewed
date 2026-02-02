@@ -522,7 +522,7 @@ gallery1946:
 
 caption: "Photo credit: Ian Ballinger"
 ---
-<em>On October 22, 2025, Lawrence Reviewed set up outside of Watson Library, where we asked passersby to review KU's steam whistle, "Big Tooter". Explore their responses in the gallery below.</em>
+<em>In August, we asked incoming students attending Jayhawk JumpStart to review the various versions of the KU mascot based on their first impressions. Explore their responses in the gallery below.</em>
 
 <h2>I give the 1912 Jayhawk...</h2>
 {% include gallery id="gallery1912"%}
