@@ -204,7 +204,7 @@ gallery1946:
 
 caption: "Photo credit: Ian Ballinger"
 ---
-<em>On September 10th, we set up outside the Kansas Student Union to ask KU students to review the various versions of the KU mascot. Explore their responses in the gallery below.</em>
+<em>On September 10th, we set up outside the Kansas Student Union to ask KU students to review the various versions of the Jayhawk mascot. Explore their responses in the gallery below.</em>
 
 <h2>I give the 1912 Jayhawk...</h2>
 {% include gallery id="gallery1912"%}
