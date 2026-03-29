@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: Ian Ballinger"
 ---
 <h2>Not Quite Lost on Mass Street by Ayat Dashti</h2>
-<p></p>I didn’t know how to pronounce Massachusetts when I first came to Lawrence. I knew it was a state, I knew it mattered, and I knew, very quickly, that I was expected to say it out loud. This street, I learned, was where people went to live their lives: to eat, to meet, to wander, to feel less alone. So I was relieved, genuinely relieved, to discover that no one actually calls it Massachusetts Street. Everyone just calls it Mass Street.</p>
+<p>I didn’t know how to pronounce Massachusetts when I first came to Lawrence. I knew it was a state, I knew it mattered, and I knew, very quickly, that I was expected to say it out loud. This street, I learned, was where people went to live their lives: to eat, to meet, to wander, to feel less alone. So I was relieved, genuinely relieved, to discover that no one actually calls it Massachusetts Street. Everyone just calls it Mass Street.</p>
 <p>There is a particular kind of intimacy that develops between a person and a street. You learn where the
 sidewalk narrows, where the wind cuts harder in winter, where the smell of coffee leaks out early in the
 morning. You begin to recognize the pauses: the lull before evening, the quiet that arrives after most
