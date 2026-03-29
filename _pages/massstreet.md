@@ -45,8 +45,8 @@ to arrive here unsure of who they were becoming, and I will not be the last.</p>
 <p>Now, when I walk Mass Street, I do so differently. I notice myself noticing. I recognize how my body
 has learned the street’s rhythm, how my pace adjusts without thought. I see how my relationship to this
 place mirrors my relationship to myself: less defensive, more open, still careful but no longer closed.
-The street has not changed. I have. Mass Street gave me a setting in which I could unfold without</p>
+The street has not changed. I have. Mass Street gave me a setting in which I could unfold without
 demand for completion. It allowed me to be in process. In a life shaped by borders, by paperwork, by
-explanations that never feel sufficient, that permission has meant everything.
+explanations that never feel sufficient, that permission has meant everything.</p>
 
 
