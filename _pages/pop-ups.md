@@ -16,8 +16,6 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 
 <h2>Upcoming Events:</h2>
 
-- Review Downtown Lawrence @ LPL: April 9th, 4-6 PM
-
 - Review the Bee Tree @ Natural History Museum: April 17th, 10 AM-12 PM
 
 
@@ -40,6 +38,8 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 - Review KU Basketball @ Watson Library: March 3rd, 8:00-10:00 PM
 
 - Review Civic Education @ Dole Institute of Politics: March 9th, 5:30-7:30 PM
+
+- Review Downtown Lawrence @ LPL: April 9th, 4-6 PM
 
 <br>
 Do you have an idea for a pop up event? Let us know at lawrencereviewed@gmail.com and we can help you set up your own!
