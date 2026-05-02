@@ -14,11 +14,6 @@ header:
 ---
 Want to review some of the unique features of KU and Lawrence? Come find us at one of our pop up events! We will be hosting a series of on site events throughout the school year--stop by to leave a review, talk with the Lawrence Reviewed team, and participate in fun activities. 
 
-<h2>Upcoming Events:</h2>
-
-- Review the Bee Tree @ Natural History Museum: April 17th, 10 AM-12 PM
-
-
 <h2>Past Events:</h2>
 
 - [Review the Jayhawk @ Kansas Student Union](/jayhawk-union): September 10th, 10 AM-12 PM 
@@ -40,6 +35,8 @@ Want to review some of the unique features of KU and Lawrence? Come find us at o
 - Review Civic Education @ Dole Institute of Politics: March 9th, 5:30-7:30 PM
 
 - Review Downtown Lawrence @ LPL: April 9th, 4-6 PM
+
+- Review the Bee Tree @ Natural History Museum: April 17th, 10 AM-12 PM
 
 <br>
 Do you have an idea for a pop up event? Let us know at lawrencereviewed@gmail.com and we can help you set up your own!
