@@ -37,4 +37,4 @@ Throughout the 2025-2026 academic year, we hosted a series of pop up events wher
 - Review the Bee Tree @ Natural History Museum: April 17th, 10 AM-12 PM
 
 <br>
-Do you have an idea for a pop up event? Let us know at lawrencereviewed@gmail.com and we can help you set up your own!
+Do you have questions or comments about any of these events or the review galleries? Contact us at lawrencereviewed@gmail.com!
