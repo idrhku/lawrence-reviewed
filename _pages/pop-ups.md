@@ -12,9 +12,7 @@ header:
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Ian Ballinger"
 ---
-Want to review some of the unique features of KU and Lawrence? Come find us at one of our pop up events! We will be hosting a series of on site events throughout the school year--stop by to leave a review, talk with the Lawrence Reviewed team, and participate in fun activities. 
-
-<h2>Past Events:</h2>
+Throughout the 2025-2026 academic year, we hosted a series of pop up events where members of our community reviewed some of the unique features of KU and Lawrence. Explore the gallery of pop up reviews below!
 
 - [Review the Jayhawk @ Kansas Student Union](/jayhawk-union): September 10th, 10 AM-12 PM 
 
