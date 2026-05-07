@@ -22,6 +22,6 @@ header:
 <p>I rate my Jimmy Butler jersey a 5/5.</p>
 
 <h3>Works Cited</h3>
-Bucher, Ric. “Left Alone, Jimmy Butler Has Found NBA Stardom One New Family Member at a Time.” Bleacherreport.com, 2018, bleacherreport.com/articles/2359572-left-alone-jimmy-butler-has-found-nba-stardom-one-new-family-member-at-a-time?. Accessed 2 Sept. 2025.
-Friedell, Nick. “Jimmy Butler’s Unusual Path to Becoming a Star - ESPN.” ESPN.com, ESPN, 24 Nov. 2014, www.espn.com/nba/story/_/id/11931211/jimmy-butler-unusual-path-becoming-star?. Accessed 4 Sept. 2025.
-McEvoy, Colin. “10 Things You Might Not Know about NBA Superstar Jimmy Butler.” Biography, 27 Apr. 2023, www.biography.com/athletes/a43726991/jimmy-butler-facts?. Accessed 2 Sept. 2025.
+<p>Bucher, Ric. “Left Alone, Jimmy Butler Has Found NBA Stardom One New Family Member at a Time.” Bleacherreport.com, 2018, bleacherreport.com/articles/2359572-left-alone-jimmy-butler-has-found-nba-stardom-one-new-family-member-at-a-time?. Accessed 2 Sept. 2025.</p>
+<p>Friedell, Nick. “Jimmy Butler’s Unusual Path to Becoming a Star - ESPN.” ESPN.com, ESPN, 24 Nov. 2014, www.espn.com/nba/story/_/id/11931211/jimmy-butler-unusual-path-becoming-star?. Accessed 4 Sept. 2025.</p>
+<p>McEvoy, Colin. “10 Things You Might Not Know about NBA Superstar Jimmy Butler.” Biography, 27 Apr. 2023, www.biography.com/athletes/a43726991/jimmy-butler-facts?. Accessed 2 Sept. 2025.</p>
