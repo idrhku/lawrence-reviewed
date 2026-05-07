@@ -21,7 +21,7 @@ Emily Counsil's ENGL 102 students reviewed Lawrence as part of their object essa
 - [Legacy of Teddy Bears: Hunting to Hugging by Clara De Stefano](/teddy-bears)
 - [From Cave Walls to Coloring Pages by Brylie Hendricks](/caves-to-coloring)
 - [Memories through Photos by Andrew Lucas](/memories)
-- Vans Old Skool by Dominic Meyer
-- The BIM Effect by Noor Saeed
-- How We Carry Ourselves by Emma Smith
-- Darkroom Shadows by Jacob Thomason
+- [Vans Old Skool by Dominic Meyer](/vans-old-skool)
+- [The BIM Effect by Noor Saeed](/BIM-effect)
+- [How We Carry Ourselves by Emma Smith](/carry-ourselves)
+- [Darkroom Shadows by Jacob Thomason](/darkroom)
