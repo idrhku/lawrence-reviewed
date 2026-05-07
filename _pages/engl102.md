@@ -18,7 +18,7 @@ Emily Counsil's ENGL 102 students reviewed Lawrence as part of their object essa
 - [Wearing His Story by Brady Bechtel](/wearing-his-story)
 - [Past, Present, and Future by Sarah Blake](/past-present-future)
 - [Unwind and Remix: The Vinyl's Cultural Significance by Prof. Emily Counsil](/unwind-and-remix)
-- Legacy of Teddy Bears: Hunting to Hugging by Clara De Stefano
+- [Legacy of Teddy Bears: Hunting to Hugging by Clara De Stefano](/teddy-bears)
 - From Cave Walls to Coloring Pages by Brylie Hendricks
 - Memories through Photos by Andrew Lucas
 - Vans Old Skool by Dominic Meyer
