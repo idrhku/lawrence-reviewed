@@ -20,7 +20,7 @@ Emily Counsil's ENGL 102 students reviewed Lawrence as part of their object essa
 - [Unwind and Remix: The Vinyl's Cultural Significance by Prof. Emily Counsil](/unwind-and-remix)
 - [Legacy of Teddy Bears: Hunting to Hugging by Clara De Stefano](/teddy-bears)
 - [From Cave Walls to Coloring Pages by Brylie Hendricks](/caves-to-coloring)
-- Memories through Photos by Andrew Lucas
+- [Memories through Photos by Andrew Lucas](/memories)
 - Vans Old Skool by Dominic Meyer
 - The BIM Effect by Noor Saeed
 - How We Carry Ourselves by Emma Smith
