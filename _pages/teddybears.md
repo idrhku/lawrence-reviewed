@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Legacy of Teddy Bears: Hunting to Hugging
+title: Legacy of Teddy Bears - Hunting to Hugging
 permalink: teddy-bears
 header:
   overlay_image: /assets/img/Lawrence,_Kansas_skyline_2018.jpg
