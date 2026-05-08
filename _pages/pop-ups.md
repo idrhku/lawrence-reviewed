@@ -30,7 +30,7 @@ Throughout the 2025-2026 academic year, we hosted a series of pop up events wher
 
 - Review KU Basketball @ Watson Library: March 3rd, 8:00-10:00 PM
 
-- Review Civic Education @ Dole Institute of Politics: March 9th, 5:30-7:30 PM
+- [Review Civic Education @ Dole Institute of Politics](/dole): March 9th, 5:30-7:30 PM
 
 - Review Downtown Lawrence @ LPL: April 9th, 4-6 PM
 
