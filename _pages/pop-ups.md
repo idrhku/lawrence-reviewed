@@ -26,7 +26,7 @@ Throughout the 2025-2026 academic year, we hosted a series of pop up events wher
 
 - [Review The Anthropocene: Kansas Edition! @ LPL](/lpl): January 29th, 6:30-8:00 PM
 
-- Review the North Family Papers @ Spencer Research Library: February 5th, 10 AM-12 PM
+- [Review the North Family Papers @ Spencer Research Library](/north-papers): February 5th, 10 AM-12 PM
 
 - Review KU Basketball @ Watson Library: March 3rd, 8:00-10:00 PM
 
