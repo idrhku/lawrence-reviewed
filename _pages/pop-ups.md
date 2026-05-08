@@ -18,7 +18,7 @@ Throughout the 2025-2026 academic year, we hosted a series of pop up events wher
 
 - [Review KU Libraries @ Anschutz](/ku-libraries): September 17th, 10 AM-12 PM
   
-- [Review Your Hometown Dinosaur](/hometown-dinosaur): @ Natural History Museum: October 15th, 10 AM-12 PM  
+- [Review Your Hometown Dinosaur @ Natural History Museum](/hometown-dinosaur): October 15th, 10 AM-12 PM  
 
 - [Review the “Big Tooter” @ Watson Library](/big-tooter): October 22nd, 2-4 PM
 
