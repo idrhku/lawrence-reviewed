@@ -18,7 +18,7 @@ Browse the gallery of contributed reviews from KU students and the wider Lawrenc
 - Review the Bee Tree @ KU Natural History Museum
 - Review Downtown Lawrence @ Lawrence Public Library
 - [Review Civic Education @ the Dole Institute of Politics](/dole)
-- Review the North Family Papers @ Spencer Research Library
+- [Review the North Family Papers @ Spencer Research Library](/north-papers)
 - [Review Being in Community with Your Fellow Kansans @ Lawrence Public Library](/lpl)
 - [English 102 Reviews - led by Prof. Emily Counsil](/engl-102)
 - [Review Your Journey to Lawrence, Kansas @ Spencer Museum of Art](/spencer-journey)
