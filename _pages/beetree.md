@@ -87,5 +87,5 @@
 <em>On April 17, 2026, Lawrence Reviewed visited the Bee Tree in KU's Natural History Museum, where we asked museum visitors to tell us about places on campus or in the museum that are special to them. Explore their responses in the gallery below.</em>
 <h2>I give the Bee Tree</h2>
 
-<p>Prompt: The bee tree is one unique spot on campus, with the bee’s arrival marking the end of the academic year. What unique place on campus is special to you? Share your thoughts, a memory, or reflection!”</p>
+<p>Prompt: The bee tree is one unique spot on campus, with the bee’s arrival marking the end of the academic year. What unique place on campus is special to you? Share your thoughts, a memory, or reflection!</p>
 {% include gallery id="gallery"%}
