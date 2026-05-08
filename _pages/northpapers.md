@@ -22,7 +22,7 @@
   caption: "Photo credit: Ian Ballinger"
 ---
 <em>On February 5, 2026, Lawrence Reviewed collaborated with Spencer Research Library to ask visitors to think critically about the North Family Papers. Explore their responses about deciding what to document in the gallery below.</em>
-<h2>I deciding what to document...</h2>
+<h2>I give deciding what to document...</h2>
 
 <p>Prompt: Every day, we have to make decisions on what parts of our life to record and preserve. In the North Gallery, you can see how the North Family kept their papers on a spindle they could go back and review. Reflect on how you document your own life.</p>
 {% include gallery id="gallery"%}
