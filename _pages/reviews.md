@@ -15,6 +15,8 @@ header:
 
 Browse the gallery of contributed reviews from KU students and the wider Lawrence community!
 
+- [Review Civic Education @ the Dole Institute of Politics](/dole)
+- Review the North Family Papers @ Spencer Research Library
 - [Review Being in Community with Your Fellow Kansans @ Lawrence Public Library](/lpl)
 - [English 102 Reviews - led by Prof. Emily Counsil](/engl-102)
 - [Review Your Journey to Lawrence, Kansas @ Spencer Museum of Art](/spencer-journey)
