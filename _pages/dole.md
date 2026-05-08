@@ -1,7 +1,7 @@
 ---
   layout: single
-  title: Review Your Journey to Lawrence, Kansas @ Spencer Museum of Art
-  permalink: spencer-journey
+  title: Review Civic Education @ the Dole Institute of Politics
+  permalink: dole
   header:
     overlay_image: /assets/img/Lawrence,_Kansas_skyline_2018.jpg
     overlay_color: "#000"
