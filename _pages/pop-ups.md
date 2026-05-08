@@ -34,7 +34,7 @@ Throughout the 2025-2026 academic year, we hosted a series of pop up events wher
 
 - [Review Downtown Lawrence @ LPL](/downtown): April 9th, 4-6 PM
 
-- Review the Bee Tree @ Natural History Museum: April 17th, 10 AM-12 PM
+- [Review the Bee Tree @ Natural History Museum](/bee-tree): April 17th, 10 AM-12 PM
 
 <br>
 Do you have questions or comments about any of these events or the review galleries? Contact us at lawrencereviewed@gmail.com!
