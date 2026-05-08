@@ -37,24 +37,24 @@
       url: /assets/img/BeeTree/BeeTree_20260502_0009.jpg
       alt: "response 9"
     - image_path: /assets/img/BeeTree/BeeTree_20260502_0010.jpg
-      url: image_path: /assets/img/BeeTree/BeeTree_20260502_0010.jpg
+      url: /assets/img/BeeTree/BeeTree_20260502_0010.jpg
       alt: "response 10"
-    - image_path: image_path: /assets/img/BeeTree/BeeTree_20260502_0011.jpg
-      url: image_path: /assets/img/BeeTree/BeeTree_20260502_0011.jpg
+    - image_path: /assets/img/BeeTree/BeeTree_20260502_0011.jpg
+      url: /assets/img/BeeTree/BeeTree_20260502_0011.jpg
       alt: "response 11"
-    - image_path: image_path: /assets/img/BeeTree/BeeTree_20260502_0012.jpg
-      url: image_path: /assets/img/BeeTree/BeeTree_20260502_0010.jpg
+    - image_path: /assets/img/BeeTree/BeeTree_20260502_0012.jpg
+      url: /assets/img/BeeTree/BeeTree_20260502_0010.jpg
       alt: "response 12"
-    - image_path: image_path: /assets/img/BeeTree/BeeTree_20260502_0013.jpg
-      url: image_path: /assets/img/BeeTree/BeeTree_20260502_0013.jpg
+    - image_path: /assets/img/BeeTree/BeeTree_20260502_0013.jpg
+      url: /assets/img/BeeTree/BeeTree_20260502_0013.jpg
       alt: "response 13"
-    - image_path: image_path: /assets/img/BeeTree/BeeTree_20260502_0014.jpg
-      url: image_path: /assets/img/BeeTree/BeeTree_20260502_0014.jpg
+    - image_path: /assets/img/BeeTree/BeeTree_20260502_0014.jpg
+      url: /assets/img/BeeTree/BeeTree_20260502_0014.jpg
       alt: "response 14"
-    - image_path: image_path: /assets/img/BeeTree/BeeTree_20260502_0015.jpg
-      url: image_path: /assets/img/BeeTree/BeeTree_20260502_0015.jpg
+    - image_path: /assets/img/BeeTree/BeeTree_20260502_0015.jpg
+      url: /assets/img/BeeTree/BeeTree_20260502_0015.jpg
       alt: "response 15"
-    - image_path: image_path: /assets/img/BeeTree/BeeTree_20260502_0016.jpg
+    - image_path: /assets/img/BeeTree/BeeTree_20260502_0016.jpg
       url: /assets/img/BeeTree/BeeTree_20260502_0016.jpg
       alt: "response 16"
     - image_path: /assets/img/BeeTree/BeeTree_20260502_0017.jpg
