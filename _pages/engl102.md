@@ -12,7 +12,7 @@ header:
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Ian Ballinger"
 ---
-Emily Counsil's ENGL 102 students reviewed Lawrence as part of their object essay asssignment. Browse their review below!
+Emily Counsil's ENGL 102 students reviewed their own favorite parts of the Anthropocene as part of their object essay asssignment. All students at KU are required to write a researched personal essay as part of their general education requirements. Browse their responses to this assignment below!
 
 <h2>Prompt by Prof. Counsil</h2>
 <p>Objects tell the kinds of stories that reveal who we are, what we value, and how we make sense of this strange world we've built together. In this project, you'll choose an object (a soccer ball, flag, TV channel or movie, anything!) and explore what it reveals about human culture in the age of the Anthropocene. </p>
