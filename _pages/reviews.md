@@ -15,7 +15,7 @@ header:
 
 Browse the gallery of contributed reviews from KU students and the wider Lawrence community!
 
-- Review the Bee Tree @ KU Natural History Museum
+- [Review the Bee Tree @ KU Natural History Museum](/bee-tree)
 - [Review Downtown Lawrence @ Lawrence Public Library](/downtown)
 - [Review Civic Education @ the Dole Institute of Politics](/dole)
 - [Review the North Family Papers @ Spencer Research Library](/north-papers)
