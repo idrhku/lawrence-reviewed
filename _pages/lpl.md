@@ -19,7 +19,8 @@
   caption: "Photo credit: Ian Ballinger"
 ---
 <em>On January 29th, 2026, Lawrence Reviewed visited Lawrence Public Library, where we talked with patrons about their experiences living in Lawrence. Explore their stories below.</em>
+
 <h2>I give being in community with my fellow Kansans...</h2>
 
-<p>Prompt: For Kansas Day, we’re celebrating being in community with one another. On one of the petals, we ask that you reflect on the personal geographies, histories, and emotions that show us what it means to be a Kansan in the modern era. Share a personal connection, story, or experience.</p>
+<p>PFor Kansas Day, we’re celebrating being in community with one another. On one of the petals, we ask that you reflect on the personal geographies, histories, and emotions that show us what it means to be a Kansan in the modern era. Share a personal connection, story, or experience.</p>
 {% include gallery id="gallery"%}
