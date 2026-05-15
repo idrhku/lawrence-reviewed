@@ -15,6 +15,9 @@
     - image_path: assets/img/NorthPapers/Papers__20260502_0002.jpg
       url: ssets/img/NorthPapers/Papers__20260502_0002.jpg
       alt: "response 2"
+    - image_path: assets/img/NorthPapers/Papers__20260515_0001.jpg
+      url: ssets/img/NorthPapers/Papers__20260515_0001.jpg
+      alt: "response 3"
     
   # actions:
   #   - label: "Download"
