@@ -15,6 +15,9 @@
     - image_path: assets/img/Dole/Dole_20260502_0004.jpg
       url: assets/img/Dole/Dole_20260502_0004.jpg
       alt: "Dole Institute response 2"
+    - image_path:assets/img/Dole/Dole_20260515_0001.jpg
+      url: assets/img/Dole/Dole_20260515_0001.jpg
+      alt: "Dole Institute response 3"
   
   gallery2:
     - image_path: assets/img/Dole/Dole_20260502_0001.jpg
@@ -23,6 +26,9 @@
     - image_path: assets/img/Dole/Dole_20260502_0002.jpg
       url: assets/img/Dole/Dole_20260502_0002.jpg
       alt: "Declaration of Independence exhibit response 2"
+    - image_path:assets/img/Dole/Dole_20260515_0002.jpg
+      url: assets/img/Dole/Dole_20260515_0002.jpg
+      alt: "Declaration of Independence exhibit response 3"
     
     
   # actions:
