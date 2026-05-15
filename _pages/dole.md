@@ -15,7 +15,7 @@
     - image_path: assets/img/Dole/Dole_20260502_0004.jpg
       url: assets/img/Dole/Dole_20260502_0004.jpg
       alt: "Dole Institute response 2"
-    - image_path:assets/img/Dole/Dole_20260515_0001.jpg
+    - image_path: assets/img/Dole/Dole_20260515_0001.jpg
       url: assets/img/Dole/Dole_20260515_0001.jpg
       alt: "Dole Institute response 3"
   
