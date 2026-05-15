@@ -18,23 +18,23 @@ Throughout the 2025-2026 academic year, we hosted a series of pop up events wher
 
 - [Review KU Libraries @ Anschutz](/ku-libraries): September 17th, 10 AM-12 PM
   
-- [Review Your Hometown Dinosaur](/hometown-dinosaur): @ Natural History Museum: October 15th, 10 AM-12 PM  
+- [Review Your Hometown Dinosaur @ Natural History Museum](/hometown-dinosaur): October 15th, 10 AM-12 PM  
 
 - [Review the “Big Tooter” @ Watson Library](/big-tooter): October 22nd, 2-4 PM
 
 - [Review the Sacred Red Rock @ Spencer Museum of Art](/spencer-journey): December 2nd, 2-4 PM
 
-- Review The Anthropocene: Kansas Edition! @ LPL: January 29th, 6:30-8:00 PM
+- [Review The Anthropocene: Kansas Edition! @ LPL](/lpl): January 29th, 6:30-8:00 PM
 
-- Review the North Family Papers @ Spencer Research Library: February 5th, 10 AM-12 PM
+- [Review the North Family Papers @ Spencer Research Library](/north-papers): February 5th, 10 AM-12 PM
 
 - Review KU Basketball @ Watson Library: March 3rd, 8:00-10:00 PM
 
-- Review Civic Education @ Dole Institute of Politics: March 9th, 5:30-7:30 PM
+- [Review Civic Education @ Dole Institute of Politics](/dole): March 9th, 5:30-7:30 PM
 
-- Review Downtown Lawrence @ LPL: April 9th, 4-6 PM
+- [Review Downtown Lawrence @ LPL](/downtown): April 9th, 4-6 PM
 
-- Review the Bee Tree @ Natural History Museum: April 17th, 10 AM-12 PM
+- [Review the Bee Tree @ Natural History Museum](/bee-tree): April 17th, 10 AM-12 PM
 
 <br>
 Do you have questions or comments about any of these events or the review galleries? Contact us at lawrencereviewed@gmail.com!

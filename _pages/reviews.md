@@ -15,6 +15,12 @@ header:
 
 Browse the gallery of contributed reviews from KU students and the wider Lawrence community!
 
+- [Review the Bee Tree @ KU Natural History Museum](/bee-tree)
+- [Review Downtown Lawrence @ Lawrence Public Library](/downtown)
+- [Review Civic Education @ the Dole Institute of Politics](/dole)
+- [Review the North Family Papers @ Spencer Research Library](/north-papers)
+- [Review Being in Community with Your Fellow Kansans @ Lawrence Public Library](/lpl)
+- [English 102 Reviews - led by Prof. Emily Counsil](/engl-102)
 - [Review Your Journey to Lawrence, Kansas @ Spencer Museum of Art](/spencer-journey)
 - [The Ballot Box Reviewed by Natalie Friend](/ballotbox)
 - [Review the “Big Tooter” @ Watson Library](/big-tooter)
