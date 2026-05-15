@@ -42,6 +42,9 @@
     - image_path: assets/img/HCH/IMG_20251222_0011.jpg
       url: assets/img/HCH/IMG_20251222_0011.jpg
       alt: "response 11"
+    - image_path: assets/img/HCH/HCH_20260515_0002.jpg
+      url: assets/img/HCH/HCH_20260515_0002.jpg
+      alt: "response 12"
     
   # actions:
   #   - label: "Download"
