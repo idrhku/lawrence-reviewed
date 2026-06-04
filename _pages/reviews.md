@@ -18,6 +18,8 @@ Browse the gallery of contributed reviews from KU students and the wider Lawrenc
 - [Review the Bee Tree @ KU Natural History Museum](/bee-tree)
 - [Review Downtown Lawrence @ Lawrence Public Library](/downtown)
 - [Review Civic Education @ the Dole Institute of Politics](/dole)
+- [Remembering the Outhouse by Iain Ellis](/outhouse)
+- [Not Quite Lost on Mass Street by Ayat Dashti](/massstreet)
 - [Review the North Family Papers @ Spencer Research Library](/north-papers)
 - [Review Being in Community with Your Fellow Kansans @ Lawrence Public Library](/lpl)
 - [English 102 Reviews - led by Prof. Emily Counsil](/engl-102)
