@@ -12,7 +12,7 @@ header:
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Ian Ballinger"
 ---
-<h2>Remembering the Outhouse</h2>
+<h2>Remembering the Outhouse by Iain Ellis</h2>
 <p>Initially called either “Past the Pavement Hall,” “The Barn,” or “The Cistern Chapel,” a small cinder-block building located in the middle of a cornfield on the outskirts of Lawrence, Kansas, would soon become known as The Outhouse, and, more importantly, as a legendary stop on a hardcore punk underground trail first excavated by Black Flag (and others) in the early 1980s.</p>
 
 <p>“Damn, this place really is an outhouse,” recalls Ice-T on leaving the gravel of North 1500 Road and approaching the small, isolated, shack-like building. He and many other musicians share their anecdotal experiences of playing this vaunted venue in The Outhouse, The Film: 1985-1997, a documentary made with the help of Kickstarter funds by ex-University of Kansas film student, Brad Norman, once a regular patron during the venue’s latter years. I was privileged to be amongst the packed house of locals at Liberty Hall in Lawrence, where the movie enjoyed its world premiere on October 14th, 2017.</p> 
@@ -40,3 +40,6 @@ header:
 <p>Free to scream and let off steam, like-minded kids are given room in spaces like The Outhouse to be self-determining and self-asserting, DIY values at the very core of hardcore. Such spatial independence of body, mind, and soul is inherent to the history of youth rebellion. We see it when Jim, Judy, and Plato escape to the abandoned mansion in Rebel Without a Cause, where they create their own alternative family dynamics. We see it in the back-to-nature commune shown in Easy Rider, where a band of hippies create an alternative lifestyle around their own cultural values. And we see it in The Outhouse, a dilapidated building that played host to myriad young outsiders in the 1980s and ‘90s, a place that resonated with broader social meanings, providing for filmmaker Brad Norman what Nick Spacek calls “a narrative of shared experience” (https://www.pitch.com/arts-entertainment/movies/blog/20978958/brad-norman-talks-about-his-doc-the-outhouse-the-film-which-plays-liberty-hall-saturday).</p>
 
 <p>5 stars</p>
+
+<hr>
+<p>Iain Ellis is a senior lecturer in the English department at the University of Kansas. He is also the author of <em>Punk Beyond the Music: Tracing Mutations and Manifestations of the Punk Virus; Humorists vs. Religion: Critical Voices from Mark Twain to Neil DeGrasse Tyson; Brit Wits: A History of British Rock Humor; </em>and <em>Rebels Wit Attitude: Subversive Rock Humorists</em>.</p> 
